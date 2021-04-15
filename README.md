@@ -42,7 +42,7 @@ Related Files:
 * [connect.py](connect.py)
 * [config.ini](config.ini)
 * [python_mysql_dbconfig.py](python_mysql_dbconfig.py)
-* [connect2.py](connect.py)
+* [connect2.py](connect2.py)
 
 Follow the instructions in [this](https://www.mysqltutorial.org/python-connecting-mysql-databases/) link.
 
